@@ -1,0 +1,71 @@
+body
+{
+   background-size: cover;
+}
+
+#b
+{
+    display: inline;
+    float: left;
+    color: cyan;
+}
+
+.menu
+{
+    float: right;
+}
+
+#home
+{
+    background-color: red;
+    background-image: linear-gradient(yellow , orange);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+    font-family: 'Syne Tactile', cursive;
+    font-size: 100px;
+}
+
+.ooh 
+{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Quintessential', cursive;
+    font-size: 20px;
+}
+
+a 
+{
+    color: white;
+    text-decoration: none;
+}
+
+.ooh :hover
+{
+  text-decoration: underline;
+  text-decoration-color: palevioletred;
+text-decoration-thickness: 5px;
+}
+
+#w
+{
+    background-color: red;
+    background-image: linear-gradient( 45deg, blue ,red);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+    font-family: 'Syne Tactile', cursive;
+}
+
+p
+{
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
