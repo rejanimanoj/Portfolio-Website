@@ -1,6 +1,7 @@
 body
 {
    background-size: cover;
+   background-position: center;
 }
 
 #b
@@ -60,6 +61,7 @@ text-decoration-thickness: 5px;
     -webkit-text-fill-color: transparent; 
     -moz-text-fill-color: transparent;
     font-family: 'Syne Tactile', cursive;
+    font-size: 30px;
 }
 
 p
